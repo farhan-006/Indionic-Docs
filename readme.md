@@ -1,12 +1,7 @@
-# [Nextra](https://nextra.vercel.app)
+# [Indionic Host](https://indionichost.com)
 
-_Warning: this project is not production ready, API might change without notice._
+_Warning: this project is still under development,there might be some bugs.._
 
-[![](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra&c=1)
-
-**Nextra** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, no-code site generator.
-
-![](/public/demo.png)
 
 ## Development
 
